@@ -1,0 +1,12 @@
+.journal-header {
+  height: 55px;
+  background-color: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.header-text {
+  padding-left: 5px;
+}
