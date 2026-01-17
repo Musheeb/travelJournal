@@ -3,3 +3,36 @@
   justify-content: center;
   align-items: center;
 }
+.main-card-content {
+  /* max-height: 165px; */
+  padding: 25px;
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+}
+.main-card-location {
+  margin-bottom: 0;
+}
+.main-card-location-name {
+  margin-top: 5px;
+}
+.main-card-destination-link {
+  padding-left: 15px;
+  color: #918e9b;
+}
+.main-card-destination {
+  padding-left: 5px;
+}
+.main-card-location-icon {
+  color: #f55a5a;
+}
+.main-card-timestamp {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+.main-card-description {
+  margin: 0;
+}
+.main-card-description {
+  font-weight: 250;
+}
